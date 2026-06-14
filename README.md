@@ -87,7 +87,6 @@ Uma coleção de implementações rápidas e provas de conceito (PoCs):
 </p>
 
 ---
-<p align="center">Made with ❤️ and AI</p>
 
 <img width="720" height="1280" alt="Supplement_advertising_for_bodyb…_202606141436 (2) 14-06-2026-16-18-00 capture -- 5f4c96_0006" src="https://github.com/user-attachments/assets/cb149cfe-d5a6-4a5a-8310-7e8087e9b677" />
 <img width="720" height="1280" alt="Supplement_advertising_for_bodyb…_202606141436 (2) 14-06-2026-16-18-00 capture -- 5f4c96_0007" src="https://github.com/user-attachments/assets/6beb2e11-1ec5-45ee-8827-8f8adb001d32" />
