@@ -1,8 +1,97 @@
-# GENAI-portfolio
-GENAI-portfolio
+Aqui está uma proposta de `README.md` profissional, altamente técnica e visualmente impactante para o seu portfólio de GenAI, utilizando os dados do seu currículo e os vídeos solicitados.
 
+---
 
+# 🤖 GENAI-portfolio
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Em%20Desenvolvimento-green?style=for-the-badge" alt="Status">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes">
+</p>
+
+## 👤 Sobre Mim: Elias dos Santos de Andrade
+**Especialista em IA Generativa e Automação de Processos**
+
+Com mais de **15 anos de trajetória**, atuo na interseção entre tecnologia profunda e resultados de negócio. Meu foco não é apenas implementar ferramentas, mas resolver problemas complexos através de dados e automação inteligente.
+
+*   📍 Maringá – PR
+*   💼 Modelo: CLT, PJ ou Projetos Estratégicos
+*   🔗 [LinkedIn](https://linkedin.com/in/itilmgf) | 📧 [E-mail](mailto:oeliasandrade@gmail.com)
+
+---
+
+## 🛠 Tech Stack & Expertise
+
+### 🧠 Inteligência Artificial & LLMs
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white) 
+![Claude](https://img.shields.io/badge/Claude_AI-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![Gemini](https://img.shields.io/badge/Google_Gemini-8E75C2?style=flat-square&logo=googlegemini&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-FFD21E?style=flat-square)
+![Stable Diffusion](https://img.shields.io/badge/Stable_Diffusion-5555ff?style=flat-square)
+
+### ⚙️ Automação e Infraestrutura
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Pipelines](https://img.shields.io/badge/CI/CD_Pipelines-8B42AD?style=flat-square)
+
+---
+
+## 📺 Demonstrações e Projetos (Showcase)
+
+Abaixo, apresento soluções práticas de IA Generativa e Automação.
+
+### 🚀 Projeto Principal: Automação Inteligente
+Veja o vídeo completo detalhando a arquitetura e os resultados:
+
+[![Assista o vídeo completo](https://img.youtube.com/vi/P8gu2lfhBIo/0.jpg)](https://www.youtube.com/watch?v=P8gu2lfhBIo)
+
+---
+
+### 📱 Shorts & Quick Demos
+Uma coleção de implementações rápidas e provas de conceito (PoCs):
+
+| Demo | Link para o Vídeo |
+| :--- | :--- |
+| **Agente de IA e Automação #1** | [Ver Short 🎥](https://youtube.com/shorts/nCKiSoFZeyo) |
+| **Processamento de Dados com LLM** | [Ver Short 🎥](https://youtube.com/shorts/8t2z7ELuLV0) |
+| **Integração de Sistemas em Tempo Real** | [Ver Short 🎥](https://youtube.com/shorts/N5E7Vm7dvRQ) |
+| **Pipeline de IA Generativa** | [Ver Short 🎥](https://youtube.com/shorts/lwQiHT8NYpU) |
+| **Chatbot Inteligente Corporativo** | [Ver Short 🎥](https://youtube.com/shorts/N--hs3UkbxY) |
+
+---
+
+## 🎯 O Que Entrego (Value Proposition)
+
+-   **Copilots Corporativos:** Desenvolvimento de assistentes personalizados.
+-   **Sistemas de Automação:** Redução de custos operacionais e aumento de produtividade.
+-   **Processamento de Dados:** Transformação de dados brutos em insights acionáveis.
+-   **Visão de Negócio:** Conexão direta entre infraestrutura técnica e KPIs financeiros.
+
+> *"Dados sem ação são apenas números. Tecnologia sem resultado é apenas custo. O verdadeiro valor surge quando informação, processos e pessoas trabalham juntos."*
+
+---
+
+## 📈 Diferenciais Profissionais
+-   ⭐ Forte capacidade analítica e perfil orientado a resultados.
+-   ⭐ Experiência em Supply Chain, Compras e Infraestrutura Corporativa.
+-   ⭐ Capacidade de liderar iniciativas de transformação digital do zero.
+-   ⭐ Mentalidade de melhoria contínua (Kaizen).
+
+---
+
+## 📫 Contato
+
+<p align="left">
+<a href="https://linkedin.com/in/itilmgf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="itilmgf" height="30" width="40" /></a>
+<a href="https://github.com/chaos4455" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="chaos4455" height="30" width="40" /></a>
+</p>
+
+---
+<p align="center">Made with ❤️ and AI</p>
 
 <img width="720" height="1280" alt="Supplement_advertising_for_bodyb…_202606141436 (2) 14-06-2026-16-18-00 capture -- 5f4c96_0006" src="https://github.com/user-attachments/assets/cb149cfe-d5a6-4a5a-8310-7e8087e9b677" />
 <img width="720" height="1280" alt="Supplement_advertising_for_bodyb…_202606141436 (2) 14-06-2026-16-18-00 capture -- 5f4c96_0007" src="https://github.com/user-attachments/assets/6beb2e11-1ec5-45ee-8827-8f8adb001d32" />
