@@ -1,7 +1,3 @@
-Aqui está uma proposta de `README.md` profissional, altamente técnica e visualmente impactante para o seu portfólio de GenAI, utilizando os dados do seu currículo e os vídeos solicitados.
-
----
-
 # 🤖 GENAI-portfolio
 
 <p align="center">
