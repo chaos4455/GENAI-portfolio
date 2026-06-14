@@ -1,4 +1,4 @@
-# 🤖 GENAI-portfolio
+# 🤖 **Especialista em IA Generativa e Automação de Processos** - TECH GENAI-portfolio
 
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Em%20Desenvolvimento-green?style=for-the-badge" alt="Status">
@@ -9,7 +9,7 @@
 </p>
 
 ## 👤 Sobre Mim: Elias dos Santos de Andrade
-**Especialista em IA Generativa e Automação de Processos**
+
 
 Com mais de **15 anos de trajetória**, atuo na interseção entre tecnologia profunda e resultados de negócio. Meu foco não é apenas implementar ferramentas, mas resolver problemas complexos através de dados e automação inteligente.
 
